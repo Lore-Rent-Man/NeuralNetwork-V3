@@ -3,6 +3,8 @@ import org.ejml.simple.*;
 import java.nio.ByteBuffer;
 import java.util.ArrayList;
 
+//Project by Laurent Man
+
 public class Main {
 	
 	public static final int epoch_size = 2000;
