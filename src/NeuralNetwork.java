@@ -7,6 +7,7 @@ import org.ejml.simple.*;
 
 //Cost function: C = 0.5(y(x) - a)^2
 //Cost function per neuron: L = partial derv(cost/activation) * derv(activation/neuron)
+//Project by Laurent Man
 
 public class NeuralNetwork {
 	
